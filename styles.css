@@ -160,7 +160,7 @@ li {
 .btn {
   border-radius:                6px;
   padding:                      12px 20px;
-  background:                   #648C6C;
+  background:                   #DB5C69;
   border:                       none;
   margin-left:                  10px;
   color:                        white;
@@ -191,14 +191,14 @@ li {
 
 .title {
   font-family:                  Verdana, Geneva, sans-serif;
-  font-size:                    160%;
+  font-size:                    150%;
   text-align:                   left;
   padding-left:                 10px;
   padding-top:                  10px;
 }
 
 .text {
-  font-size:                    140%;
+  font-size:                    130%;
   width:                        100%;
   padding:                      10px;
   margin:                       0, 20px;
